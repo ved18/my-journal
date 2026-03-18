@@ -34,6 +34,10 @@ header_pages:
   - unfiltered.md
   - travel.md
   - uses.md
+collections:
+  travel:
+    output: true
+    permalink: /:collection/:name/
 sass:
   quiet_deps: true
   silence_deprecations:

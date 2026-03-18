@@ -1,0 +1,6 @@
+---
+layout: post
+title: "First Impressions of Bangalore"
+date:   2026-03-18 13:20:00 +0530
+categories: travel bangalore
+---
