@@ -9,8 +9,7 @@ permalink: /uses/
 Tools, hardware, and software I use.
 
 ## Hardware
-- MacBook Pro
-- Mechanical keyboard
+- MacBook Pro m1
 
 ## Software
 - VS Code
