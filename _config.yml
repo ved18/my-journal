@@ -22,8 +22,8 @@ title: Vedang Kapse
 email: vk18363@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal journal and thoughts.
-baseurl: "/my-journal" # the subpath of your site, e.g. /blog
-url: "https://ved18.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vedangkapse.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ved18
 
 # Build settings
