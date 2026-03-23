@@ -38,6 +38,9 @@ collections:
   travel:
     output: true
     permalink: /:collection/:name/
+  unfiltered:
+    output: true
+    permalink: /:collection/:name/
 sass:
   quiet_deps: true
   silence_deprecations:

@@ -4,7 +4,5 @@ title: Travel
 permalink: /travel/
 ---
 
-Add something about travel.
 
-
-### [<u>Bangalore, India</u>](/travel/bangalore/) - March 2026
+1. #### [<u>Bangalore, India</u>](/travel/bangalore/) - March 2026
