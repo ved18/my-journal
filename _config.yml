@@ -33,12 +33,16 @@ plugins:
 header_pages:
   - unfiltered.md
   - travel.md
+  - bookshelf.md
   - uses.md
 collections:
   travel:
     output: true
     permalink: /:collection/:name/
   unfiltered:
+    output: true
+    permalink: /:collection/:name/
+  bookshelf:
     output: true
     permalink: /:collection/:name/
 sass:
